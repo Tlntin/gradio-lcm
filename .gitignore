@@ -6,3 +6,4 @@ cog_class_data/
 cog_instance_data/
 model_cache.tar
 tmp/
+!image/
