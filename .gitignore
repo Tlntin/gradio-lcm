@@ -5,3 +5,6 @@ cog_instance_data/
 model_cache.tar
 tmp/
 !image/
+*.png
+*.jpg
+*.jpeg
